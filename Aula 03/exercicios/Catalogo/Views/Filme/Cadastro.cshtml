@@ -1,0 +1,9 @@
+@model Filme
+
+<form asp-controller="Filme" asp-action="Salvar" method="POST">
+
+    <label asp-for="Titulo">Digite o título:</label>
+    <input asp-for="Titulo" type="text" />
+
+    <button>SALVAR</button>
+</form>
