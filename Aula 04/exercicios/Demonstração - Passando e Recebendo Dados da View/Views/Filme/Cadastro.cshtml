@@ -1,0 +1,21 @@
+@using Catalogo.MeuNamespace
+@model Filme
+
+<form asp-controller="Filme" asp-action="Salvar" method="POST">
+
+    <label asp-for="Codigo">Digite o código:</label>
+    <input asp-for="Codigo" type="text" />
+    </br>
+    <label asp-for="Titulo">Digite o título:</label>
+    <input asp-for="Titulo" type="text" />
+    </br>
+    <label asp-for="Sinopse">Digite a sinopse:</label>
+    <input asp-for="Sinopse" type="text" />
+    </br>
+    <label asp-for="Lancamento">Data de lançamento:</label>
+    <input asp-for="Lancamento" type="text" />
+
+    <button>SALVAR</button>
+</form>
+
+<span style="color: red">@ViewBag.Mensagem</span>

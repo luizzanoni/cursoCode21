@@ -1,0 +1,46 @@
+C:\temp\Catalogo\bin\Debug\net6.0\appsettings.Development.json
+C:\temp\Catalogo\bin\Debug\net6.0\appsettings.json
+C:\temp\Catalogo\bin\Debug\net6.0\Catalogo.exe
+C:\temp\Catalogo\bin\Debug\net6.0\Catalogo.deps.json
+C:\temp\Catalogo\bin\Debug\net6.0\Catalogo.runtimeconfig.json
+C:\temp\Catalogo\bin\Debug\net6.0\Catalogo.dll
+C:\temp\Catalogo\bin\Debug\net6.0\Catalogo.pdb
+C:\temp\Catalogo\obj\Debug\net6.0\Catalogo.csproj.AssemblyReference.cache
+C:\temp\Catalogo\obj\Debug\net6.0\Catalogo.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\Catalogo\obj\Debug\net6.0\Catalogo.AssemblyInfoInputs.cache
+C:\temp\Catalogo\obj\Debug\net6.0\Catalogo.AssemblyInfo.cs
+C:\temp\Catalogo\obj\Debug\net6.0\Catalogo.csproj.CoreCompileInputs.cache
+C:\temp\Catalogo\obj\Debug\net6.0\Catalogo.MvcApplicationPartsAssemblyInfo.cache
+C:\temp\Catalogo\obj\Debug\net6.0\Catalogo.RazorAssemblyInfo.cache
+C:\temp\Catalogo\obj\Debug\net6.0\Catalogo.RazorAssemblyInfo.cs
+C:\temp\Catalogo\obj\Debug\net6.0\staticwebassets.build.json
+C:\temp\Catalogo\obj\Debug\net6.0\staticwebassets.development.json
+C:\temp\Catalogo\obj\Debug\net6.0\scopedcss\bundle\Catalogo.styles.css
+C:\temp\Catalogo\obj\Debug\net6.0\Catalogo.dll
+C:\temp\Catalogo\obj\Debug\net6.0\refint\Catalogo.dll
+C:\temp\Catalogo\obj\Debug\net6.0\Catalogo.pdb
+C:\temp\Catalogo\obj\Debug\net6.0\Catalogo.genruntimeconfig.cache
+C:\temp\Catalogo\obj\Debug\net6.0\ref\Catalogo.dll
+C:\Users\robotica.cco\Pictures\Aula 04\exercicios\Demonstração - Passando e Recebendo Dados da View\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\robotica.cco\Pictures\Aula 04\exercicios\Demonstração - Passando e Recebendo Dados da View\bin\Debug\net6.0\appsettings.json
+C:\Users\robotica.cco\Pictures\Aula 04\exercicios\Demonstração - Passando e Recebendo Dados da View\bin\Debug\net6.0\Catalogo.exe
+C:\Users\robotica.cco\Pictures\Aula 04\exercicios\Demonstração - Passando e Recebendo Dados da View\bin\Debug\net6.0\Catalogo.deps.json
+C:\Users\robotica.cco\Pictures\Aula 04\exercicios\Demonstração - Passando e Recebendo Dados da View\bin\Debug\net6.0\Catalogo.runtimeconfig.json
+C:\Users\robotica.cco\Pictures\Aula 04\exercicios\Demonstração - Passando e Recebendo Dados da View\bin\Debug\net6.0\Catalogo.dll
+C:\Users\robotica.cco\Pictures\Aula 04\exercicios\Demonstração - Passando e Recebendo Dados da View\bin\Debug\net6.0\Catalogo.pdb
+C:\Users\robotica.cco\Pictures\Aula 04\exercicios\Demonstração - Passando e Recebendo Dados da View\obj\Debug\net6.0\Catalogo.csproj.AssemblyReference.cache
+C:\Users\robotica.cco\Pictures\Aula 04\exercicios\Demonstração - Passando e Recebendo Dados da View\obj\Debug\net6.0\Catalogo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\robotica.cco\Pictures\Aula 04\exercicios\Demonstração - Passando e Recebendo Dados da View\obj\Debug\net6.0\Catalogo.AssemblyInfoInputs.cache
+C:\Users\robotica.cco\Pictures\Aula 04\exercicios\Demonstração - Passando e Recebendo Dados da View\obj\Debug\net6.0\Catalogo.AssemblyInfo.cs
+C:\Users\robotica.cco\Pictures\Aula 04\exercicios\Demonstração - Passando e Recebendo Dados da View\obj\Debug\net6.0\Catalogo.csproj.CoreCompileInputs.cache
+C:\Users\robotica.cco\Pictures\Aula 04\exercicios\Demonstração - Passando e Recebendo Dados da View\obj\Debug\net6.0\Catalogo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\robotica.cco\Pictures\Aula 04\exercicios\Demonstração - Passando e Recebendo Dados da View\obj\Debug\net6.0\Catalogo.RazorAssemblyInfo.cache
+C:\Users\robotica.cco\Pictures\Aula 04\exercicios\Demonstração - Passando e Recebendo Dados da View\obj\Debug\net6.0\Catalogo.RazorAssemblyInfo.cs
+C:\Users\robotica.cco\Pictures\Aula 04\exercicios\Demonstração - Passando e Recebendo Dados da View\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\robotica.cco\Pictures\Aula 04\exercicios\Demonstração - Passando e Recebendo Dados da View\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\robotica.cco\Pictures\Aula 04\exercicios\Demonstração - Passando e Recebendo Dados da View\obj\Debug\net6.0\scopedcss\bundle\Catalogo.styles.css
+C:\Users\robotica.cco\Pictures\Aula 04\exercicios\Demonstração - Passando e Recebendo Dados da View\obj\Debug\net6.0\Catalogo.dll
+C:\Users\robotica.cco\Pictures\Aula 04\exercicios\Demonstração - Passando e Recebendo Dados da View\obj\Debug\net6.0\refint\Catalogo.dll
+C:\Users\robotica.cco\Pictures\Aula 04\exercicios\Demonstração - Passando e Recebendo Dados da View\obj\Debug\net6.0\Catalogo.pdb
+C:\Users\robotica.cco\Pictures\Aula 04\exercicios\Demonstração - Passando e Recebendo Dados da View\obj\Debug\net6.0\Catalogo.genruntimeconfig.cache
+C:\Users\robotica.cco\Pictures\Aula 04\exercicios\Demonstração - Passando e Recebendo Dados da View\obj\Debug\net6.0\ref\Catalogo.dll
