@@ -8,3 +8,7 @@ básico de todos.
 ```
 dotnet run
 ```
+
+Curso concluido no dia 28/10/2022 <br>
+Todo material utilizado no curso ou que foi de aprendizado, está anotado nos arquivos notepad, ou no readme de cada pasta!
+Muito aprendizado e conhecimento sobre a linguagem nova.
